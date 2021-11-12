@@ -4,6 +4,8 @@ example of connecting to datastax astra with scala 2.12 based on the Astra Java 
 
 ## how to run
 
+Needs [sbt](https://www.scala-sbt.org/) to run
+
 `sbt "run path-to-secure-connect-bundle.zip astra-client-id astra-client-secret keyspace"`
 
 
